@@ -7,7 +7,7 @@
 
 
 
-[![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=debabratabanerjee&count_private=true&show_icons=true)](https://github.com/debabratabanerjee/github-readme-stats)
+[![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=debabratabanerjee&count_private=true&show_icons=true&theme=radical)](https://github.com/debabratabanerjee/github-readme-stats)
 
 <!---
 debabratabanerjee/debabratabanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
