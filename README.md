@@ -6,9 +6,6 @@
 - 📫 How to reach me : debabratabanerjee023@gmail.com(e-mail) 
 
 
-
-[![Debabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=debabratabanerjee&count_private=true&show_icons=true&theme=radical)](https://github.com/debabratabanerjee/github-readme-stats)
-
 <!---
 debabratabanerjee/debabratabanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
