@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Frontend work Portfolio: https://debabratabanerjee.slideway.dev
+
+
+Well many things changes in between now and before. Working with AWS Services, kafka and many more.
